@@ -1,56 +1,54 @@
-# 🚀 Professional Full-Stack Portfolio 
+# 🚀 Abdul Kalam | Full-Stack Developer Portfolio
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/AbdulKalamU/abdulkalamu.github.io?color=blue&style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/AbdulKalamU/abdulkalamu.github.io?color=orange&style=for-the-badge)
-![Website Status](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdulkalamu.github.io%2F)
-
-A high-performance, **pixel-perfect personal portfolio** meticulously crafted with a focus on clean UI, smooth UX, and advanced frontend architecture.
-
-
-
----
-
-## 💎 Technical Highlights (The "Worth It" Points)
-
-### 📧 Zero-Server Communication Architecture (Email.js)
-Instead of relying on slow backend servers or insecure `mailto` links, I integrated **Email.js**. 
-* **The Logic:** Custom SMTP routing directly from the browser. 
-* **The Result:** Instantaneous, encrypted inbox delivery with zero server latency. 
-
-### 📍 Precision-Engineered Responsive Layout
-This isn't just "mobile-friendly." I implemented a **Fluid Grid System** ensuring **Zero Layout Shift (ZLS)**.
-* **Fit-to-Screen:** Every section is hard-coded to maintain structural integrity from a 4-inch smartphone to 32-inch 4K monitors.
-
-### ⏳ Advanced Bidirectional Timeline
-Developed a unique **bidirectional rendering logic** for the Experience section. 
-* **Horizontal Stretching:** Custom CSS positioning that stretches content cards while keeping the central vertical axis locked.
-
-
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3 (Modern Flex/Grid), JavaScript (ES6+) |
-| **Animation** | Particles.js, CSS Hardware Acceleration |
-| **Communication** | **Email.js** (Secure SMTP Integration) |
-| **Icons & Fonts** | Font Awesome 5, Google Fonts (Poppins, Nunito) |
-
----
-
-## 🚀 Deployment
-
-The site is hosted on **GitHub Pages** with automated deployment. 
-
-
-# To clone and run locally
-git clone [https://github.com/AbdulKalamU/abdulkalamu.github.io.git](https://github.com/AbdulKalamU/abdulkalamu.github.io.git)
-cd abdulkalamu.github.io
-# Open index.html in your browser
-🤝 Let's Connect
-<p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=https://github.com/AbdulKalamU" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Abdul%20Kalam&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/AbdulKalamU/abdulkalamu.github.io?color=667eea&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/languages/top/AbdulKalamU/abdulkalamu.github.io?color=764ba2&style=for-the-badge" />
+  <img src="https://img.shields.io/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fabdulkalamu.github.io%2F" />
+</p>
+
+---
+
+## 👨‍💻 About This Project
+
+This isn't just another template. It's a high-performance, **pixel-perfect architecture** designed to showcase technical expertise with a seamless user experience.
+
+### 💎 What Makes It Different?
+
+* **📧 Zero-Latency Inbox Delivery:** Integrated **Email.js** for direct browser-to-inbox routing. No backend lag, just pure real-time communication.
+* **📏 Fluid Grid System:** Engineered for **Zero Layout Shift (ZLS)**. Whether it's a 4-inch iPhone or a 32-inch 4K monitor, the site scales mathematically.
+* **⏳ Dynamic Experience Logic:** A custom bidirectional timeline that handles horizontal content stretching without breaking the central axis.
+* **⚡ 60fps Animations:** Powered by **Particles.js** and CSS hardware acceleration for butter-smooth visual feedback.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/EmailJS-%23F7DF1E.svg?style=for-the-badge&logo=mail.dot.ru&logoColor=black" />
+</p>
+
+---
+
+## 📽 Preview
+
+
+
+---
+
+## 🚀 Installation & Usage
+
+# Clone the repository
+git clone [https://github.com/AbdulKalamU/abdulkalamu.github.io.git](https://github.com/AbdulKalamU/abdulkalamu.github.io.git)
+
+# Navigate to the folder
+cd abdulkalamu.github.io
+
+# Launch locally
+open index.html
